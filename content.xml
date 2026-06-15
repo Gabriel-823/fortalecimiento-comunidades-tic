@@ -31,6 +31,10 @@
     <value>Gabriel Alejandro Chamba Vicente</value>
   </odeProperty>
   <odeProperty>
+    <key>pp_description</key>
+    <value>Solución al fortalecimiento de TIC, TACy TEP en instituciones educativas.</value>
+  </odeProperty>
+  <odeProperty>
     <key>pp_lang</key>
     <value>es</value>
   </odeProperty>
@@ -52,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1781553673349</value>
+    <value>1781558611746</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -196,6 +200,30 @@
       <key>titlePage</key>
       <value>Uso de TIC en la Construcción de Comunidades Académicas</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso de TIC en la Construcción de Comunidades Académicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
@@ -270,6 +298,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781548453593-t0d93lqxk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>TIC/TAC/TEP</strong></p>\n<p style=\"text-align: center;\"><strong><img src=\"{{context_path}}/content/resources/TIC. TAC y TEP.jpg\" width=\"300\" height=\"168\" alt=\"\" /></strong></p>\n<p>Las herramientas tecnológicas actuales rompen las fronteras físicas y temporales de la institución tradicional, permitiendo que la comunicación pase de ser unidireccional a transformarse en un diálogo multidireccional y permanente. No obstante, para que la tecnología fortalezca la comunidad, debemos comprender su evolución conceptual:</p>\n<table border=\"1\" style=\"width: 100%; border-collapse: collapse;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th style=\"padding: 10px; text-align: left;\">Concepto</th>\n<th style=\"padding: 10px; text-align: left;\">Enfoque Principal</th>\n<th style=\"padding: 10px; text-align: left;\">Rol en la Comunidad Académica</th>\n<th style=\"padding: 10px; text-align: left;\">Ejemplos de Herramientas</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"padding: 10px; vertical-align: top;\"><strong>TIC</strong> (Tecnologías de la Información y Comunicación)</td>\n<td style=\"padding: 10px; vertical-align: top;\"><strong>Información y Acceso.</strong> Centrado en la infraestructura y la gestión de datos.</td>\n<td style=\"padding: 10px; vertical-align: top;\">Permite la comunicación básica y el almacenamiento de recursos compartidos.</td>\n<td style=\"padding: 10px; vertical-align: top;\">Correo institucional, Google Drive, repositorios digitales, Zoom.</td>\n</tr>\n<tr>\n<td style=\"padding: 10px; vertical-align: top;\"><strong>TAC</strong> (Tecnologías del Aprendizaje y del Conocimiento)</td>\n<td style=\"padding: 10px; vertical-align: top;\"><strong>Metodología y Pedagogía.</strong> Centrado en cómo se aprende con la tecnología.</td>\n<td style=\"padding: 10px; vertical-align: top;\">Facilita el codiseño de actividades dinámicas, la autoevaluación y el aprendizaje significativo.</td>\n<td style=\"padding: 10px; vertical-align: top;\">Entornos Virtuales de Aprendizaje (LMS Moodle), pizarras interactivas (Miro, Padlet).</td>\n</tr>\n<tr>\n<td style=\"padding: 10px; vertical-align: top;\"><strong>TEP</strong> (Tecnologías del Empoderamiento y la Participación)</td>\n<td style=\"padding: 10px; vertical-align: top;\"><strong>Sociopolítico y Colaborativo.</strong> Centrado en la libre expresión y el cambio social.</td>\n<td style=\"padding: 10px; vertical-align: top;\">Impulsa la co-creación activa, el debate democrático y la proyección comunitaria del conocimiento.</td>\n<td style=\"padding: 10px; vertical-align: top;\">Redes académicas de co-diseño, foros de debate público, canales de difusión estudiantil/docente.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -285,6 +325,30 @@
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Aplicación práctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Aplicación práctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -328,6 +392,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781549518284-co30g8s0j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En la Escuela Municipal \"Héroes del Cenepa\", se ha detectado una falta de articulación pedagógica y aislamiento docente entre las diferentes áreas de estudio y el laboratorio de Computación/Informática. Esto genera que las clases de tecnología se dicten de forma aislada, mientras que las materias troncales carecen de recursos digitales interactivos innovadores. Como consecuencia, se duplican esfuerzos en la planificación de clases, no se comparten materiales didácticos eficientes y se desaprovecha la infraestructura tecnológica de la institución.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -370,6 +446,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -414,6 +502,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781552912888-t17wl6aqo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta propuesta no requiere una inversión económica extra en software licenciado, sino que optimiza el talento humano y los recursos tecnológicos con los que ya cuenta la escuela municipal. Al establecer dinámicas de trabajo colaborativo horizontal, se reduce la carga laboral individual en la planificación a mediano plazo y se consolida una verdadera comunidad de aprendizaje comprometida con la innovación educativa local.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -431,6 +531,26 @@
       <value>Relación con la gestión de ambientes de aprendizaje</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación con la gestión de ambientes de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
       <key>titleNode</key>
       <value>Relación con la gestión de ambientes de aprendizaje</value>
     </odeNavStructureProperty>
@@ -441,7 +561,7 @@
       <odeBlockId>block-mqfm7z37-xjrrt5yc0</odeBlockId>
       <blockName>Pregunta</blockName>
       <iconName>ask</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -478,6 +598,130 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781552267105-94pje3eh7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>¿Cómo contribuye la tecnología a gestionar y mejorar un ambiente de aprendizaje?</strong></p>\n<p style=\"text-align: justify;\">El fortalecimiento de una comunidad académica a través de la tecnología no radica en la acumulación de dispositivos de última generación, sino en la transformación sustancial de las dinámicas humanas y metodológicas. Al transitar conscientemente desde las TIC , pasando por las TAC hasta consolidarse en las TEP, la tecnología se convierte en el puente que derriba el aislamiento convencional de las aulas.</p>\n<p style=\"text-align: justify;\">Este ecosistema digital impacta de manera directa en la gestión y optimización de los ambientes de aprendizaje al expandirlos hacia la ubicuidad y la flexibilidad. Por un lado, optimiza los procesos de gestión curricular y, por otro lado, enriquece significativamente el ambiente áulico, transformando al alumno de un receptor pasivo a un explorador interactivo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqfpruih-zcm4cvt7p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Archivo fuente</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Archivo fuente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Archivo fuente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Archivo fuente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqfpruih-zcm4cvt7p</odePageId>
+      <odeBlockId>block-mqfpry6s-h2kmshejy</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqfpruih-zcm4cvt7p</odePageId>
+          <odeBlockId>block-mqfpry6s-h2kmshejy</odeBlockId>
+          <odeIdeviceId>idevice-1781558237908-grv42hhfj</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Evaluación Unidad 2</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Gabriel Alejandro Chamba Vicente</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
